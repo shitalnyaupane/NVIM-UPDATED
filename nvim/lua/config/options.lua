@@ -48,3 +48,5 @@ opt.linebreak = true
 -- opt.vim_markdown_conceal = 0
 --
 vim.g.lazygit_config = false
+
+opt.vim = "a"
